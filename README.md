@@ -2,7 +2,7 @@
 
 IT graduate (Bachelor of Information Technology, QUT) based in Brisbane. I build software and work with data, most recently health data: turning the HL7 v2 messages pathology labs send into Australia's AU Core FHIR standard.
 
-Open to graduate, junior developer and health IT roles.
+Open to graduate, junior developer and IT roles.
 
 ## Featured project: AU Core Gateway
 
